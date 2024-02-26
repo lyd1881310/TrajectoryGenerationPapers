@@ -34,37 +34,34 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 ## Macro Trajectory Generation
 
-**The TimeGeo Modeling Framework for Urban Mobility without Travel Surveys** PNAS, 2016. [paper](https://www.pnas.org/doi/abs/10.1073/pnas.1524261113)
-
-    *Shan Jiang, Yingxiang Yang, Siddharth Gupta, and Marta C. González*
+Shan Jiang, Yingxiang Yang, Siddharth Gupta, and Marta C. González. **The TimeGeo Modeling Framework for Urban Mobility without Travel Surveys** PNAS, 2016. [paper](https://www.pnas.org/doi/abs/10.1073/pnas.1524261113)
 
 **Learning to Simulate Human Mobility** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3412862)
 
-	*Feng J, Yang Z, Xu F, et al.*
+  *Feng J, Yang Z, Xu F, et al.*
 
 **Learning to Simulate on Sparse Trajectory Data** ECML-PKDD, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-67667-4_32)
 
-	*Wei H, Chen C, Liu C, et al.*
+  *Wei H, Chen C, Liu C, et al.*
 
 **LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection** 2020. [paper](https://arxiv.org/abs/2006.10521)
 
-    *Jinmeng Rao, Song Gao, Yuhao Kang, Qunying Huang*
+  *Jinmeng Rao, Song Gao, Yuhao Kang, Qunying Huang*
 
 **Simulating Continuous-time Human Mobility Trajectories** ICLR SimDL Workshop, 2021. [paper](https://simdl.github.io/files/47.pdf)
-
-	*Xu N, Trinh L, Rambhatla S, et al.*
+  
+  *Xu N, Trinh L, Rambhatla S, et al.*
 
 **VTSV: A Privacy-Preserving Vehicle Trajectory Simulation and Visualization Platform Using Deep Reinforcement Learning** GeoAI, 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3486635.3491073)
 
-    *Rao J, Gao S, Zhu X.*
+  *Rao J, Gao S, Zhu X.*
 
 **CSGAN: Modality-Aware Trajectory Generation via Clustering-based Sequence GAN** IEEE International Conference on Mobile Data Management, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10214943/)
 
-    *Minxing Zhang, Haowen Lin, Shun Takagi, Yang Cao, Cyrus Shahabi, Li Xiong*
+  *Minxing Zhang, Haowen Lin, Shun Takagi, Yang Cao, Cyrus Shahabi, Li Xiong*
 
 
 ## Micro Trajectory Simulation
-
 
 
 
