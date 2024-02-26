@@ -38,33 +38,136 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
     
    *Shan Jiang, Yingxiang Yang, Siddharth Gupta, et al.* PNAS, 2016.
 
++ **Synthesizing Plausible Privacy-Preserving Location Traces.** [paper](https://ieeexplore.ieee.org/abstract/document/7546522/)
+
+   *Bindschaedler V, Shokri R.* IEEE Symposium on Security and Privacy (SP), 2016.
+
++ **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient.** [paper](https://ojs.aaai.org/index.php/AAAI/article/view/10804)
+
+   *Yu L, Zhang W, Wang J, et al.* AAAI, 2017.
+
++ **A Generative Model of Urban Activities from Cellular Data.** [paper](https://ieeexplore.ieee.org/abstract/document/7932990/)
+
+   *Yin M, Sheehan M, Feygin S, et al.* IEEE Transactions on Intelligent Transportation Systems, 2017.
+
++ **A Non-Parametric Generative Model for Human Trajectories.** [paper](https://www.researchgate.net/profile/Kun-Ouyang/publication/326204971_A_Non-Parametric_Generative_Model_for_Human_Trajectories/links/5e3cdd49299bf1cdb914b1ef/A-Non-Parametric-Generative-Model-for-Human-Trajectories.pdf)
+
+   *Ouyang K, Shokri R, Rosenblum D S, et al.* IJCAI, 2018.
+
++ **trajGANs: Using Generative Adversarial Networks for Geo-privacy Protection of Trajectory Data.** [paper](https://ptal-io.github.io/lopas2018/papers/LoPaS2018_Liu.pdf)
+
+   *Liu X, Chen H, Andris C.* Location Privacy and Security Workshop, 2018.
+
++ **A Variational Autoencoder Based Generative Model of Urban Human Mobility.** [paper](https://ieeexplore.ieee.org/abstract/document/8695407/)
+
+   *Huang D, Song X, Fan Z, et al.* IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2019.
+
++ **Generating Human Mobility Route Based on Generative Adversarial Network.** [paper](https://ieeexplore.ieee.org/abstract/document/8860038/)
+
+   *Song H Y, Baek M S, Sung M.* Federated Conference on Computer Science and Information Systems (FedCSIS), 2019.
+
++ **What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities.** [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380210)
+
+   *He T, Bao J, Li R, et al.* WWW, 2020.
+
 + **Learning to Simulate Human Mobility.** [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3412862)
     
    *Feng J, Yang Z, Xu F, et al.* KDD, 2020.
+
++ **TraG: A Trajectory Generation Technique for Simulating Urban Crowd Mobility.** [paper](https://ieeexplore.ieee.org/abstract/document/9016086/)
+
+   *Kang X, Liu L, Zhao D, et al.*  IEEE Transactions on Industrial Informatics, 2020.
 
 + **Learning to Simulate on Sparse Trajectory Data.** [paper](https://link.springer.com/chapter/10.1007/978-3-030-67667-4_32)
     
   *Wei H, Chen C, Liu C, et al.* ECML-PKDD, 2020.
 
-+ **LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection.** 2020. [paper](https://arxiv.org/abs/2006.10521)
++ **LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection.**  [paper](https://arxiv.org/abs/2006.10521)
 
-   *Jinmeng Rao, Song Gao, Yuhao Kang et al*
+   *Jinmeng Rao, Song Gao, Yuhao Kang et al.* 2020.
 
-+ **Simulating Continuous-time Human Mobility Trajectories.** ICLR SimDL Workshop, 2021. [paper](https://simdl.github.io/files/47.pdf)
++ **Generating Mobility Trajectories with Retained Data Utility.** [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467158)
+
+   *Cao C, Li M.* KDD, 2021.
+
++ **How Do We Move: Modeling Human Movement with System Dynamics.** [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16571)
+
+   *Wei H, Xu D, Liang J, et al.* AAAI, 2021.
+
++ **Simulating Continuous-time Human Mobility Trajectories.** [paper](https://simdl.github.io/files/47.pdf)
   
-  *Xu N, Trinh L, Rambhatla S, et al.*
+   *Xu N, Trinh L, Rambhatla S, et al.* ICLR SimDL Workshop, 2021.
 
-**VTSV: A Privacy-Preserving Vehicle Trajectory Simulation and Visualization Platform Using Deep Reinforcement Learning** GeoAI, 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3486635.3491073)
++ **TrajGAIL: Generating Urban Vehicle Trajectories using Generative Adversarial Imitation Learning.** [paper]()
 
-  *Rao J, Gao S, Zhu X.*
+   *Choi S, Kim J, Yeo H.* Transportation Research Part C: Emerging Technologies, 2021.
 
-**CSGAN: Modality-Aware Trajectory Generation via Clustering-based Sequence GAN** IEEE International Conference on Mobile Data Management, 2023. [paper](https://ieeexplore.ieee.org/abstract/document/10214943/)
++ **TrajVAE: A Variational AutoEncoder Model for Trajectory Generation.** [paper](https://www.sciencedirect.com/science/article/pii/S0925231220312017)
 
-  *Minxing Zhang, Haowen Lin, Shun Takagi, Yang Cao, Cyrus Shahabi, Li Xiong*
+   *Chen X, Xu J, Zhou R, et al.* Neurocomputing, 2021.
+
++ **Large Scale GPS Trajectory Generation Using Map Based on Two Stage GAN.** [paper](https://www.airitilibrary.com/Article/Detail/16838602-202101-202103090003-202103090003-126-141)
+
+   *Wang X, Liu X, Lu Z, et al.* Journal of Data Science, 2021.
+
++ **VTSV: A Privacy-Preserving Vehicle Trajectory Simulation and Visualization Platform Using Deep Reinforcement Learning** [paper](https://dl.acm.org/doi/abs/10.1145/3486635.3491073)
+
+   *Rao J, Gao S, Zhu X.* GeoAI, 2021.
+
++ **Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.** [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3542671)
+
+   *Yuan Y, Ding J, Wang H, et al.* KDD, 2022.
+
++ **A Deep Generative Model for Trajectory Modeling and Utilization.** [paper](https://dl.acm.org/doi/abs/10.14778/3574245.3574277)
+
+   *Wang Y, Li G, Li K, et al.* Proceedings of the VLDB Endowment, 2022.
+
++ **RMGen: A Tri-Layer Vehicular Trajectory Data Generation Model Exploring Urban Region Division and Mobility Pattern.** [paper](https://ieeexplore.ieee.org/abstract/document/9779566/)
+
+   *Kong X, Chen Q, Hou M, et al.* IEEE Transactions on Vehicular Technology, 2022.
+
++ **DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model.** [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd9b4a28fb9eebe0430c3312a4898a41-Abstract-Conference.html)
+
+   *Zhu Y, Ye Y, Zhang S, et al.* NIPS, 2023.
+
++ **SynMob: Creating High-Fidelity Synthetic GPS Trajectory Dataset for Urban Mobility Analysis.** [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4786c0d1b9687a841bc579b0b8b01b8e-Abstract-Datasets_and_Benchmarks.html)
+
+   *Zhu Y, Ye Y, Wu Y, et al.* NIPS, 2023.
+
++ **Practical Synthetic Human Trajectories Generation Based on Variational Point Processes.** [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599888)
+
+   *Long Q, Wang H, Li T, et al.* KDD, 2023.
+
++ **PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning.** [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26700)
+
+   *Wang H, Gao C, Wu Y, et al.* AAAI, 2023.
+
++ **Continuous Trajectory Generation Based on Two-Stage GAN.** [paper](https://arxiv.org/abs/2301.07103)
+
+   *Jiang W, Zhao W X, Wang J, et al.* AAAI, 2023.
+
++ **DP-TrajGAN: A Privacy-aware Trajectory Generation Model with Differential Privacy.** [paper](https://www.sciencedirect.com/science/article/pii/S0167739X22004319)
+
+   *Zhang J, Huang Q, Huang Y, et al.* Future Generation Computer Systems, 2023.
+
++ **CSGAN: Modality-Aware Trajectory Generation via Clustering-based Sequence GAN**  [paper](https://ieeexplore.ieee.org/abstract/document/10214943/)
+
+   *Minxing Zhang, Haowen Lin, Shun Takagi, et al.* IEEE International Conference on Mobile Data Management, 2023.
+
++ **Enhanced Generation of Human Mobility Trajectory with Multiscale Model.** [paper](https://link.springer.com/chapter/10.1007/978-981-99-8178-6_24)
+
+   *Han L.* International Conference on Neural Information Processing, 2023.
+
++ **Trajectory Generation of Ultra-Low-Frequency Travel Routes in Large-Scale Complex Road Networks.** [paper](https://www.mdpi.com/2079-8954/11/2/61)
+
+   *Li J, Zhao W.* Systems, 2023.
 
 
 ## Micro Trajectory Simulation
 
++ **Conditional Generative Models for Dynamic Trajectory Generation and Urban Driving.** [paper](https://www.mdpi.com/1424-8220/23/15/6764)
+
+   *Paz D, Zhang H, Xiang H, et al.* Sensors, 2023.
 
 
 
