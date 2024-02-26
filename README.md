@@ -36,13 +36,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
 Shan Jiang, Yingxiang Yang, Siddharth Gupta, and Marta C. González. **The TimeGeo Modeling Framework for Urban Mobility without Travel Surveys** PNAS, 2016. [paper](https://www.pnas.org/doi/abs/10.1073/pnas.1524261113)
 
-**Learning to Simulate Human Mobility** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3412862)
+1. **Learning to Simulate Human Mobility** KDD, 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3394486.3412862)
 
-  *Feng J, Yang Z, Xu F, et al.*
+    *Feng J, Yang Z, Xu F, et al.*
 
-**Learning to Simulate on Sparse Trajectory Data** ECML-PKDD, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-67667-4_32)
+2. **Learning to Simulate on Sparse Trajectory Data** ECML-PKDD, 2020. [paper](https://link.springer.com/chapter/10.1007/978-3-030-67667-4_32)
 
-  *Wei H, Chen C, Liu C, et al.*
+    *Wei H, Chen C, Liu C, et al.*
 
 **LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection** 2020. [paper](https://arxiv.org/abs/2006.10521)
 
