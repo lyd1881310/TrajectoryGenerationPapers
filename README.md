@@ -50,6 +50,10 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Yin M, Sheehan M, Feygin S, et al.* IEEE Transactions on Intelligent Transportation Systems, 2017.
 
++ **Mobility Knowledge Discovery to Generate Activity Pattern Trajectories.** [paper](https://ieeexplore.ieee.org/abstract/document/8317737)
+
+   *Allahviranloo M, De Castaing L C, Rehmann J.* International Conference on Intelligent Transportation Systems (ITSC), 2017.
+
 + **A Non-Parametric Generative Model for Human Trajectories.** [paper](https://www.researchgate.net/profile/Kun-Ouyang/publication/326204971_A_Non-Parametric_Generative_Model_for_Human_Trajectories/links/5e3cdd49299bf1cdb914b1ef/A-Non-Parametric-Generative-Model-for-Human-Trajectories.pdf)
 
    *Ouyang K, Shokri R, Rosenblum D S, et al.* IJCAI, 2018.
@@ -58,6 +62,14 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Liu X, Chen H, Andris C.* Location Privacy and Security Workshop, 2018.
 
++ **Data-driven Generation of Spatio-temporal Routines in Human Mobility.** [paper](https://link.springer.com/article/10.1007/s10618-017-0548-4)
+
+   *Pappalardo L, Simini F.* Data Mining and Knowledge Discovery, 2018.
+
++ **Generative Models for Simulating Mobility Trajectories.** [paper](https://arxiv.org/abs/1811.12801)
+
+   *Kulkarni V, Tagasovska N, Vatter T, et al.* 2018.
+
 + **A Variational Autoencoder Based Generative Model of Urban Human Mobility.** [paper](https://ieeexplore.ieee.org/abstract/document/8695407/)
 
    *Huang D, Song X, Fan Z, et al.* IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2019.
@@ -65,6 +77,10 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 + **Generating Human Mobility Route Based on Generative Adversarial Network.** [paper](https://ieeexplore.ieee.org/abstract/document/8860038/)
 
    *Song H Y, Baek M S, Sung M.* Federated Conference on Computer Science and Information Systems (FedCSIS), 2019.
+
++ **Human Mobility Simulator for Smart Applications.** [paper](https://ieeexplore.ieee.org/abstract/document/8958668/)
+   
+   *De Paola A, Giammanco A, Re G L, et al.* International Symposium on Distributed Simulation and Real Time Applications (DS-RT), 2019.
 
 + **What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities.** [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380210)
 
@@ -85,6 +101,10 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 + **LSTM-TrajGAN: A Deep Learning Approach to Trajectory Privacy Protection.**  [paper](https://arxiv.org/abs/2006.10521)
 
    *Jinmeng Rao, Song Gao, Yuhao Kang et al.* 2020.
+
++ **Population Mobility Modelling for Mobility Data Simulation.** [paper](https://www.sciencedirect.com/science/article/pii/S0198971520302593)
+
+   *Smolak K, Rohm W, Knop K, et al.* Computers, Environment and Urban Systems, 2020.
 
 + **Generating Mobility Trajectories with Retained Data Utility.** [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467158)
 
@@ -126,6 +146,10 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Kong X, Chen Q, Hou M, et al.* IEEE Transactions on Vehicular Technology, 2022.
 
++ **Generating Synthetic Mobility Data for a Realistic Population with RNNs to Improve Utility and Privacy.** [paper](https://dl.acm.org/doi/abs/10.1145/3477314.3507230)
+
+   *Berke A, Doorley R, Larson K, et al.* ACM/SIGAPP Symposium on Applied Computing, 2022.
+
 + **DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model.** [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd9b4a28fb9eebe0430c3312a4898a41-Abstract-Conference.html)
 
    *Zhu Y, Ye Y, Zhang S, et al.* NIPS, 2023.
@@ -150,7 +174,7 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Zhang J, Huang Q, Huang Y, et al.* Future Generation Computer Systems, 2023.
 
-+ **CSGAN: Modality-Aware Trajectory Generation via Clustering-based Sequence GAN**  [paper](https://ieeexplore.ieee.org/abstract/document/10214943/)
++ **CSGAN: Modality-Aware Trajectory Generation via Clustering-based Sequence GAN.**  [paper](https://ieeexplore.ieee.org/abstract/document/10214943/)
 
    *Minxing Zhang, Haowen Lin, Shun Takagi, et al.* IEEE International Conference on Mobile Data Management, 2023.
 
@@ -162,6 +186,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Li J, Zhao W.* Systems, 2023.
 
++ **A Deep Learning Framework to Generate Synthetic Mobility Data.** [paper](https://ieeexplore.ieee.org/abstract/document/10241677)
+   
+   *Arkangil E, Yildirimoglu M, Kim J, et al.* International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS), 2023.
+
++ **TrajSGAN: A Semantic-Guiding Adversarial Network for Urban Trajectory Generation.** [paper]()
+
+   *Xiong G, Li Z, Zhao M, et al.* IEEE Transactions on Computational Social Systems, 2023.
 
 ## Micro Trajectory Simulation
 
