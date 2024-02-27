@@ -22,6 +22,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
    *Bindschaedler V, Shokri R.* IEEE Symposium on Security and Privacy (SP), 2016.
 
++ **FTS: A Practical Model for Feature-based Trajectory Synthesis.** [paper](https://link.springer.com/chapter/10.1007/978-3-319-45814-4_3#Sec3)
+
+   *Li J, Chen W, Liu A, et al.* Web Technologies and Applications, 2016.
+
 + **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient.** [paper](https://ojs.aaai.org/index.php/AAAI/article/view/10804)
 
    *Yu L, Zhang W, Wang J, et al.* AAAI, 2017.
@@ -33,6 +37,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 + **Mobility Knowledge Discovery to Generate Activity Pattern Trajectories.** [paper](https://ieeexplore.ieee.org/abstract/document/8317737)
 
    *Allahviranloo M, De Castaing L C, Rehmann J.* International Conference on Intelligent Transportation Systems (ITSC), 2017.
+
++ **Generating Synthetic Mobility Traffic Using RNNs.** [paper](https://dl.acm.org/doi/abs/10.1145/3149808.3149809)
+
+   *Kulkarni V, Garbinato B.* Workshop on Artificial Intelligence and Deep Learning for Geographic Knowledge Discovery, 2017.
 
 + **A Non-Parametric Generative Model for Human Trajectories.** [paper](https://www.researchgate.net/profile/Kun-Ouyang/publication/326204971_A_Non-Parametric_Generative_Model_for_Human_Trajectories/links/5e3cdd49299bf1cdb914b1ef/A-Non-Parametric-Generative-Model-for-Human-Trajectories.pdf)
 
@@ -58,6 +66,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
    *Gursoy M E, Liu L, Truex S, et al.* ACM SIGSAC Conference on Computer and Communications Security, 2018.
 
++ **Replicating Urban Dynamics by Generating Human-like Agents From Smartphone GPS Data.** [paper](https://dl.acm.org/doi/abs/10.1145/3274895.3274935)
+
+   *Pang Y, Tsubouchi K, Yabe T, et al.* SIGSPATIAL, 2018.
+
 + **A Variational Autoencoder Based Generative Model of Urban Human Mobility.** [paper](https://ieeexplore.ieee.org/abstract/document/8695407/)
 
    *Huang D, Song X, Fan Z, et al.* IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2019.
@@ -73,6 +85,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 + **TGM: A Generative Mechanism for Publishing Trajectories with Differential Privacy.** [paper](https://ieeexplore.ieee.org/abstract/document/8848444)
 
    *Ghane S, Kulik L, Ramamohanarao K.* IEEE Internet of Things Journal, 2019.
+
++ **Synthesizing Privacy Preserving Traces: Enhancing Plausibility with Social Networks.** [paper](https://ieeexplore.ieee.org/abstract/document/8884663)
+
+   *Zhao P, Jiang H, Li J, et al.* IEEE/ACM Transactions on Networking, 2019.
 
 + **What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities.** [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380210)
 
@@ -102,6 +118,18 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
    *Chen S, Fu A, Shen J, et al.* Journal of Network and Computer Applications, 2020.
 
++ **Utility-optimized Synthesis of Differentially Private Location Traces.** [paper](https://ieeexplore.ieee.org/abstract/document/9325413)
+
+   *Gursoy M E, Rajasekar V, Liu L.* IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA), 2020.
+
++ **Development of People Mass Movement Simulation Framework Based on Reinforcement Learning.** [paper](https://www.sciencedirect.com/science/article/pii/S0968090X20306215)
+
+   *Pang Y, Kashiyama T, Yabe T, et al.* Transportation research part C: emerging technologies, 2020.
+
++ **Mobile Semantic-aware Trajectory for Personalized Location Privacy Preservation.** [paper](https://ieeexplore.ieee.org/abstract/document/9166538)
+
+   *Qiu G, Guo D, Shen Y, et al.*  IEEE Internet of Things Journal, 2020.
+
 + **Generating Mobility Trajectories with Retained Data Utility.** [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467158)
 
    *Cao C, Li M.* KDD, 2021.
@@ -129,6 +157,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 + **VTSV: A Privacy-Preserving Vehicle Trajectory Simulation and Visualization Platform Using Deep Reinforcement Learning** [paper](https://dl.acm.org/doi/abs/10.1145/3486635.3491073)
 
    *Rao J, Gao S, Zhu X.* GeoAI, 2021.
+
++ **Synthetic People Flow: Privacy-preserving Mobility Modeling from Large-scale Location Data in Urban Areas.** [paper](https://link.springer.com/chapter/10.1007/978-3-030-94822-1_36)
+
+   *Tamura N, Urano K, Aoki S, et al.* International Conference on Mobile and Ubiquitous Systems: Computing, Networking, and Services, 2021.
 
 + **Activity Trajectory Generation via Modeling Spatiotemporal Dynamics.** [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3542671)
 
@@ -202,12 +234,19 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
    *Du Y, Hu Y, Zhang Z, et al.* 2023.
 
++ **Synthesizing Realistic Trajectory Data with Differential Privacy.** [paper](https://ieeexplore.ieee.org/abstract/document/10038642)
+
+   *Sun X, Ye Q, Hu H, et al.* IEEE Transactions on Intelligent Transportation Systems, 2023.
+
 ## Micro Trajectory Simulation
 
 + **Conditional Generative Models for Dynamic Trajectory Generation and Urban Driving.** [paper](https://www.mdpi.com/1424-8220/23/15/6764)
 
    *Paz D, Zhang H, Xiang H, et al.* Sensors, 2023.
 
+## Survey
+
++ **User mobility synthesis based on generative adversarial networks: A survey.**
 
 
 
