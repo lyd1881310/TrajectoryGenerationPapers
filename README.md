@@ -1,34 +1,16 @@
 
 
-# Awesome Machine Learning for Combinatorial Optimization Resources
+# Urban Trajectory Simulation: Papers
 We would like to maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems.
-
-We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
-
-*Maintained by members in SJTU-Thinklab: Chang Liu, Runzhong Wang, Jiayi Zhang, Zelin Zhao, Haoyu Geng, Tianzhe Wang, Wenxuan Guo, Wenjie Wu, Nianzu Yang, Ziao Guo, Yang Li, Hao Xiong and Junchi Yan. We also thank [all contributers from the community](https://github.com/Thinklab-SJTU/awesome-ml4co/graphs/contributors)!*
-
-*We are looking for post-docs interested in machine learning especially for learning combinatorial solvers, dynamic graphs, and reinforcement learning. Please send your up-to-date resume via yanjunchi AT sjtu.edu.cn.*
 
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#survey-papers">1. Survey</a></td></tr>
-<tr><td colspan="2"><a href="#problems">2. Problems</a></td></tr> 
+<tr><td colspan="2"><a href="">Macro Trajectory Generation</a></td></tr>
+<tr><td colspan="2"><a href="">Micro Trajectory Simulation</a></td></tr> 
 <tr>
-	<td>&emsp;<a href=#graph-matching>2.1 Graph Matching (GM)</a></td>
-	<td>&emsp;<a href=#quadratic-assignment-problem>2.2 Quadratic Assignment Problem (QAP)</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#travelling-salesman-problem>2.3 Travelling Salesman Problem (TSP)</a></td>
-	<td>&emsp;<a href=#portfolio-optimization>2.4 Portfolio Optimization (PortOpt)</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#maximal-cut>2.5 Maximal Cut</a></td>
-	<td>&emsp;<a href=#vehicle-routing-problem>2.6 Vehicle Routing Problem (VRP)</a></td>
-</tr>
-<tr>
-	<td>&emsp;<a href=#job-shop-scheduling-problem>2.7 Job Shop Scheduling Problem (JSSP)</a></td>
-	<td>&emsp;<a href=#maximum-independent-set>2.8 Maximum Independent Set</a></td>
+	<td>&emsp;<a href=#graph-matching>Crowd Simulation</a></td>
+	<td>&emsp;<a href=#quadratic-assignment-problem>Traffic Simulation</a></td>
 </tr>
 </table>
 
@@ -70,9 +52,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Kulkarni V, Tagasovska N, Vatter T, et al.* 2018.
 
-+ **Differentially Private and Utility Preserving Publication of Trajectory Data.** [paper]()
++ **Differentially Private and Utility Preserving Publication of Trajectory Data.** [paper](https://ieeexplore.ieee.org/abstract/document/8481494)
 
    *Gursoy M E, Liu L, Truex S, et al.* IEEE Transactions on Mobile Computing, 2018.
+
++ **Utility-aware Synthesis of Differentially Private and Attack-resilient Location Traces.** [paper](https://dl.acm.org/doi/abs/10.1145/3243734.3243741)
+
+   *Gursoy M E, Liu L, Truex S, et al.* ACM SIGSAC Conference on Computer and Communications Security, 2018.
 
 + **A Variational Autoencoder Based Generative Model of Urban Human Mobility.** [paper](https://ieeexplore.ieee.org/abstract/document/8695407/)
 
