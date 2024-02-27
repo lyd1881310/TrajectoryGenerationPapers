@@ -1,7 +1,5 @@
-
-
 # Urban Trajectory Simulation: Papers
-We would like to maintain a list of resources that utilize machine learning technologies to solve combinatorial optimization problems.
+We would like to maintain a list of papers that solve the trajectory simulation problem in cities.
 
 ## [Content](#content)
 
