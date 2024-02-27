@@ -70,6 +70,10 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Kulkarni V, Tagasovska N, Vatter T, et al.* 2018.
 
++ **Differentially Private and Utility Preserving Publication of Trajectory Data.** [paper]()
+
+   *Gursoy M E, Liu L, Truex S, et al.* IEEE Transactions on Mobile Computing, 2018.
+
 + **A Variational Autoencoder Based Generative Model of Urban Human Mobility.** [paper](https://ieeexplore.ieee.org/abstract/document/8695407/)
 
    *Huang D, Song X, Fan Z, et al.* IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), 2019.
@@ -81,6 +85,10 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 + **Human Mobility Simulator for Smart Applications.** [paper](https://ieeexplore.ieee.org/abstract/document/8958668/)
    
    *De Paola A, Giammanco A, Re G L, et al.* International Symposium on Distributed Simulation and Real Time Applications (DS-RT), 2019.
+
++ **TGM: A Generative Mechanism for Publishing Trajectories with Differential Privacy.** [paper](https://ieeexplore.ieee.org/abstract/document/8848444)
+
+   *Ghane S, Kulik L, Ramamohanarao K.* IEEE Internet of Things Journal, 2019.
 
 + **What is the Human Mobility in a New City: Transfer Mobility Knowledge Across Cities.** [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380210)
 
@@ -105,6 +113,10 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 + **Population Mobility Modelling for Mobility Data Simulation.** [paper](https://www.sciencedirect.com/science/article/pii/S0198971520302593)
 
    *Smolak K, Rohm W, Knop K, et al.* Computers, Environment and Urban Systems, 2020.
+
++ **RNN-DP: A New Differential Privacy Scheme Base on Recurrent Neural Network for Dynamic Trajectory Privacy Protection.** [paper](https://www.sciencedirect.com/science/article/pii/S1084804520302101)
+
+   *Chen S, Fu A, Shen J, et al.* Journal of Network and Computer Applications, 2020.
 
 + **Generating Mobility Trajectories with Retained Data Utility.** [paper](https://dl.acm.org/doi/abs/10.1145/3447548.3467158)
 
@@ -150,6 +162,14 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
 
    *Berke A, Doorley R, Larson K, et al.* ACM/SIGAPP Symposium on Applied Computing, 2022.
 
++ **Geolocated Data Generation and Protection Using Generative Adversarial Networks.** [paper](https://link.springer.com/chapter/10.1007/978-3-031-13448-7_7)
+
+   *Alatrista-Salas H, Montalvo-Garcia P, Nunez-del-Prado M, et al.* International Conference on Modeling Decisions for Artificial Intelligence, 2022.
+
++ **Synthesis of Longitudinal Human Location Sequences: Balancing Utility and Privacy.** [paper](https://dl.acm.org/doi/abs/10.1145/3529260)
+
+   *Benarous M, Toch E, Ben-Gal I.* ACM Transactions on Knowledge Discovery from Data (TKDD), 2022.
+
 + **DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model.** [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd9b4a28fb9eebe0430c3312a4898a41-Abstract-Conference.html)
 
    *Zhu Y, Ye Y, Zhang S, et al.* NIPS, 2023.
@@ -190,9 +210,13 @@ We mark work contributed by [Thinklab](http://thinklab.sjtu.edu.cn) with ⭐.
    
    *Arkangil E, Yildirimoglu M, Kim J, et al.* International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS), 2023.
 
-+ **TrajSGAN: A Semantic-Guiding Adversarial Network for Urban Trajectory Generation.** [paper]()
++ **TrajSGAN: A Semantic-Guiding Adversarial Network for Urban Trajectory Generation.** [paper](https://ieeexplore.ieee.org/abstract/document/10025663)
 
    *Xiong G, Li Z, Zhao M, et al.* IEEE Transactions on Computational Social Systems, 2023.
+
++ **LDPTrace: Locally  Differentially Private Trajectory Synthesis.** [paper](https://arxiv.org/abs/2302.06180)
+
+   *Du Y, Hu Y, Zhang Z, et al.* 2023.
 
 ## Micro Trajectory Simulation
 
