@@ -3,8 +3,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
 ## [Content](#content)
 
+[Macro Trajectory Generation](#macro_trajectory_generation)
+
 <table>
-<tr><td colspan="2"><a href="">Macro Trajectory Generation</a></td></tr>
+<tr><td colspan="2">Macro Trajectory Generation</td></tr>
 <tr><td colspan="2"><a href="">Micro Trajectory Simulation</a></td></tr> 
 <tr>
 	<td>&emsp;<a href=#graph-matching>Crowd Simulation</a></td>
@@ -12,7 +14,7 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 </tr>
 </table>
 
-## Macro Trajectory Generation
+## <a id="macro_trajectory_generation">Macro Trajectory Generation</a>
 
 + **The TimeGeo Modeling Framework for Urban Mobility without Travel Surveys.** [paper](https://www.pnas.org/doi/abs/10.1073/pnas.1524261113)
     
@@ -142,7 +144,7 @@ We would like to maintain a list of papers that solve the trajectory simulation 
   
    *Xu N, Trinh L, Rambhatla S, et al.* ICLR SimDL Workshop, 2021.
 
-+ **TrajGAIL: Generating Urban Vehicle Trajectories using Generative Adversarial Imitation Learning.** [paper]()
++ **TrajGAIL: Generating Urban Vehicle Trajectories using Generative Adversarial Imitation Learning.** [paper](https://www.sciencedirect.com/science/article/pii/S0968090X21001121)
 
    *Choi S, Kim J, Yeo H.* Transportation Research Part C: Emerging Technologies, 2021.
 
@@ -186,6 +188,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
    *Benarous M, Toch E, Ben-Gal I.* ACM Transactions on Knowledge Discovery from Data (TKDD), 2022.
 
++ **Learn to Simulate Macro- and Micro-scopic Human Mobility.** [paper](https://ieeexplore.ieee.org/abstract/document/9821080)
+
+   *Yin J.* IEEE International Conference on Smart Computing (SMARTCOMP), 2022.
+
 + **DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model.** [paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd9b4a28fb9eebe0430c3312a4898a41-Abstract-Conference.html)
 
    *Zhu Y, Ye Y, Zhang S, et al.* NIPS, 2023.
@@ -197,6 +203,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 + **Practical Synthetic Human Trajectories Generation Based on Variational Point Processes.** [paper](https://dl.acm.org/doi/abs/10.1145/3580305.3599888)
 
    *Long Q, Wang H, Li T, et al.* KDD, 2023.
+
++ **Learning to Simulate Daily Activities via Modeling Dynamic Human Needs.** [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583276)
+
+   *Yuan Y, Wang H, Ding J, et al.* WWW, 2023.
 
 + **PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning.** [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26700)
 
@@ -239,6 +249,55 @@ We would like to maintain a list of papers that solve the trajectory simulation 
    *Sun X, Ye Q, Hu H, et al.* IEEE Transactions on Intelligent Transportation Systems, 2023.
 
 ## Micro Trajectory Simulation
+
+### Crowd Simulation
+
++ **Social LSTM: Human Trajectory Prediction in Crowded Spaces.** [paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html)
+
+   *Alahi A, Goel K, Ramanathan V, et al.* CVPR, 2016.
+
++ **Position-based Multi-agent Dynamics for Real-time Crowd Simulation** [paper](https://dl.acm.org/doi/abs/10.1145/3099564.3108160)
+
+   *Weiss T, Litteneker A, Jiang C, et al.* SIGGRAPH, 2017.
+
++ **Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks.** [paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Gupta_Social_GAN_Socially_CVPR_2018_paper.html)
+
+   *Gupta A, Johnson J, Fei-Fei L, et al.* CVPR, 2018.
+
++ **Recursive Social Behavior Graph for Trajectory Prediction.** [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Sun_Recursive_Social_Behavior_Graph_for_Trajectory_Prediction_CVPR_2020_paper.html)
+
+   *Sun J, Jiang Q, Lu C.* CVPR, 2020.
+
++ **Social-STGCN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction.** [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.html)
+
+   *Mohamed A, Qian K, Elhoseiny M, et al.* CVPR, 2020.
+
++ **Human Trajectory Prediction via Neural Social Physics.** [paper](https://link.springer.com/chapter/10.1007/978-3-031-19830-4_22)
+
+   *Yue J, Manocha D, Wang H.* ECCV, 2022.
+
++ **Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion.** [paper](https://openaccess.thecvf.com/content/CVPR2022/html/Gu_Stochastic_Trajectory_Prediction_via_Motion_Indeterminacy_Diffusion_CVPR_2022_paper.html)
+
+   *Gu T, Chen G, Li J, et al.* CVPR, 2022.
+
++ **Physics-infused Machine Learning for Crowd Simulation.** [paper](https://dl.acm.org/doi/abs/10.1145/3534678.3539440)
+
+   *Zhang G, Yu Z, Jin D, et al.* KDD, 2022.
+
++ **Learning to Simulate Crowd Trajectories with Graph Networks.** [paper](https://dl.acm.org/doi/abs/10.1145/3543507.3583858)
+
+   *Shi H, Yao Q, Li Y.* WWW, 2023.
+
++ **Leapfrog Diffusion Model for Stochastic Trajectory Prediction.** [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.html)
+
+   *Mao W, Xu C, Zhu Q, et al.* CVPR, 2023.
+
++ **Social Physics Informed Diffusion Model for Crowd Simulation.** [paper](https://arxiv.org/abs/2402.06680)
+
+   *Chen H, Ding J, Li Y, et al.* 2024.
+
+
+### Traffic Simulation
 
 + **Conditional Generative Models for Dynamic Trajectory Generation and Urban Driving.** [paper](https://www.mdpi.com/1424-8220/23/15/6764)
 
