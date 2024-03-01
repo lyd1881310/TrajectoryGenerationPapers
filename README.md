@@ -264,6 +264,26 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
    *Gupta A, Johnson J, Fei-Fei L, et al.* CVPR, 2018.
 
++ **Learning Motion Rules from Real Data: Neural Network for Crowd Simulation.** [paper](https://www.sciencedirect.com/science/article/pii/S0925231218305599)
+
+   *Wei X, Lu W, Zhu L, et al.* Neurocomputing, 2018.
+
++ **Social Attention: Modeling Attention in Human Crowds.** [paper](https://ieeexplore.ieee.org/abstract/document/8460504)
+
+   *Vemula A, Muelling K, Oh J.* ICRA, 2018.
+
++ **Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction.** [paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Xu_Encoding_Crowd_Interaction_CVPR_2018_paper.html)
+
+   *Xu Y, Piao Z, Gao S.* CVPR, 2018.
+
++ **Social-BiGAT: Multimodal Trajectory Forecasting Using Bicycle-GAN and Graph Attention Networks.** [paper](https://proceedings.neurips.cc/paper_files/paper/2019/hash/d09bf41544a3365a46c9077ebb5e35c3-Abstract.html)
+
+   *Kosaraju V, Sadeghian A, Martín-Martín R, et al.* NIPS, 2019.
+
++ **STGAT: Modeling Spatial-temporal Interactions for Human Trajectory Prediction.** [paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Huang_STGAT_Modeling_Spatial-Temporal_Interactions_for_Human_Trajectory_Prediction_ICCV_2019_paper.html)
+
+   *Huang Y, Bi H, Li Z, et al.* ICCV, 2019.
+
 + **Recursive Social Behavior Graph for Trajectory Prediction.** [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Sun_Recursive_Social_Behavior_Graph_for_Trajectory_Prediction_CVPR_2020_paper.html)
 
    *Sun J, Jiang Q, Lu C.* CVPR, 2020.
@@ -271,6 +291,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 + **Social-STGCN: A Social Spatio-Temporal Graph Convolutional Neural Network for Human Trajectory Prediction.** [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Mohamed_Social-STGCNN_A_Social_Spatio-Temporal_Graph_Convolutional_Neural_Network_for_Human_CVPR_2020_paper.html)
 
    *Mohamed A, Qian K, Elhoseiny M, et al.* CVPR, 2020.
+
++ **Collaborative Motion Prediction via Neural Motion Message Passing.** [paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_Collaborative_Motion_Prediction_via_Neural_Motion_Message_Passing_CVPR_2020_paper.html)
+
+   *Hu Y, Chen S, Zhang Y, et al.* CVPR, 2020.
 
 + **Human Trajectory Prediction via Neural Social Physics.** [paper](https://link.springer.com/chapter/10.1007/978-3-031-19830-4_22)
 
@@ -299,13 +323,47 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
 ### Traffic Simulation
 
++ **Learning Lane Graph Representation for Motion Forecasting.** [paper](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_32)
+
+   *Liang M, Yang B, Hu R, et al.* ECCV, 2020.
+
++ **TrafficSim: Learning to Simulate Realistic Multi-Agent Behaviors.** [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Suo_TrafficSim_Learning_To_Simulate_Realistic_Multi-Agent_Behaviors_CVPR_2021_paper.html)
+
+   *Suo S, Regalado S, Casas S, et al.* CVPR, 2021.
+
++ **SimNet: Learning reactive self-driving simulations from real-world observations.** [paper](https://ieeexplore.ieee.org/abstract/document/9561666)
+
+   *Bergamini L, Ye Y, Scheel O, et al.* ICRA, 2021.
+
++ **Symphony: Learning Realistic and Diverse Agents for Autonomous Driving Simulation.** [paper](https://ieeexplore.ieee.org/abstract/document/9811990)
+
+   *Igl M, Kim D, Kuefler A, et al.* ICRA, 2022.
+
++ **Deep Interactive Motion Prediction and Planning: Playing Games with Motion Prediction Models.** [paper](https://proceedings.mlr.press/v168/espinoza22a.html)
+
+   *Espinoza J L V, Liniger A, Schwarting W, et al.* Learning for Dynamics and Control Conference, 2022.
+
++ **InterSim: Interactive Traffic Simulation via Explicit Relation Modeling.** [paper](https://ieeexplore.ieee.org/abstract/document/9982008)
+
+   *Sun Q, Huang X, Williams B C, et al.* IROS, 2022.
+
++ **BITS: Bi-level Imitation for Traffic Simulation.** [paper](https://ieeexplore.ieee.org/abstract/document/10161167)
+
+   *Xu D, Chen Y, Ivanovic B, et al.* ICRA, 2023.
+
++ **MIXSIM: A Hierarchical Framework for Mixed Reality Traffic Simulation.** [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Suo_MixSim_A_Hierarchical_Framework_for_Mixed_Reality_Traffic_Simulation_CVPR_2023_paper.html)
+
+   *Suo S, Wong K, Xu J, et al.* CVPR, 2023.
+
 + **Conditional Generative Models for Dynamic Trajectory Generation and Urban Driving.** [paper](https://www.mdpi.com/1424-8220/23/15/6764)
 
    *Paz D, Zhang H, Xiang H, et al.* Sensors, 2023.
 
+
+
 ## Survey
 
-+ **User mobility synthesis based on generative adversarial networks: A survey.**
++ **User mobility synthesis based on generative adversarial networks: A survey.** 
 
 
 
