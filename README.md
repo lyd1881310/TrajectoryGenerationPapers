@@ -9,8 +9,8 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 <tr><td colspan="2">Macro Trajectory Generation</td></tr>
 <tr><td colspan="2"><a href="">Micro Trajectory Simulation</a></td></tr> 
 <tr>
-	<td>&emsp;<a href=#graph-matching>Crowd Simulation</a></td>
-	<td>&emsp;<a href=#quadratic-assignment-problem>Traffic Simulation</a></td>
+	<td>&emsp;Crowd Simulation</td>
+	<td>&emsp;Traffic Simulation</td>
 </tr>
 </table>
 
