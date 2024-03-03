@@ -250,7 +250,7 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
 ## Micro Trajectory Simulation
 
-### Crowd Simulation
+### Crowd Trajectory Simulation
 
 + **Social LSTM: Human Trajectory Prediction in Crowded Spaces.** [paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html)
 
@@ -321,7 +321,11 @@ We would like to maintain a list of papers that solve the trajectory simulation 
    *Chen H, Ding J, Li Y, et al.* 2024.
 
 
-### Traffic Simulation
+### Vehicle Trajectory Simulation
+
++ **BézierVAE: Improved Trajectory Modeling Using Variational Autoencoders for the Safety Validation of Highly Automated Vehicles.** [paper](https://ieeexplore.ieee.org/abstract/document/8917297)
+
+   *Krajewski R, Moers T, Meister A, et al.* IEEE Intelligent Transportation Systems Conference (ITSC), 2019.
 
 + **Learning Lane Graph Representation for Motion Forecasting.** [paper](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_32)
 
@@ -335,6 +339,14 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
    *Bergamini L, Ye Y, Scheel O, et al.* ICRA, 2021.
 
++ **TAE: A Semi-supervised Controllable Behavior-aware Trajectory Generator and Predictor.** [paper](https://ieeexplore.ieee.org/abstract/document/9981029)
+
+   *Jiao R, Liu X, Zheng B, et al.* IROS, 2022.
+
++ **A Systematic Solution of Human Driving Behavior Modeling and Simulation for Automated Vehicle Studies.** [paper](https://ieeexplore.ieee.org/abstract/document/9767202)
+
+   *Zhang K, Chang C, Zhong W, et al.* IEEE transactions on intelligent transportation systems, 2022.
+
 + **Symphony: Learning Realistic and Diverse Agents for Autonomous Driving Simulation.** [paper](https://ieeexplore.ieee.org/abstract/document/9811990)
 
    *Igl M, Kim D, Kuefler A, et al.* ICRA, 2022.
@@ -346,6 +358,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 + **InterSim: Interactive Traffic Simulation via Explicit Relation Modeling.** [paper](https://ieeexplore.ieee.org/abstract/document/9982008)
 
    *Sun Q, Huang X, Williams B C, et al.* IROS, 2022.
+
++ **Modeling Driver Behavior Using Adversarial Inverse Reinforcement Learning.** [paper](https://ieeexplore.ieee.org/abstract/document/9827292)
+
+   *Sackmann M, Bey H, Hofmann U, et al.* IEEE Intelligent Vehicles Symposium (IV), 2022.
 
 + **BITS: Bi-level Imitation for Traffic Simulation.** [paper](https://ieeexplore.ieee.org/abstract/document/10161167)
 
@@ -359,11 +375,10 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
    *Paz D, Zhang H, Xiang H, et al.* Sensors, 2023.
 
++ **TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction.** [paper](https://arxiv.org/abs/2303.04116)
 
+   *Zhang Z, Liniger A, Dai D, et al.* 2023.
 
-## Survey
-
-+ **User mobility synthesis based on generative adversarial networks: A survey.** 
 
 
 
