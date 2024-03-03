@@ -3,11 +3,9 @@ We would like to maintain a list of papers that solve the trajectory simulation 
 
 ## [Content](#content)
 
-[Macro Trajectory Generation](#macro_trajectory_generation)
-
 <table>
 <tr><td colspan="2">Macro Trajectory Generation</td></tr>
-<tr><td colspan="2"><a href="">Micro Trajectory Simulation</a></td></tr> 
+<tr><td colspan="2">Micro Trajectory Simulation</td></tr> 
 <tr>
 	<td>&emsp;Crowd Simulation</td>
 	<td>&emsp;Traffic Simulation</td>
